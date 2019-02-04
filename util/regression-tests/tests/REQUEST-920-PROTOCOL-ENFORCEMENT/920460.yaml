@@ -1,8 +1,7 @@
 ---
   meta: 
     author: "csanders-git"
-    # Not triggering (unsure why)
-    enabled: false
+    enabled: true
     name: "920460.yaml"
     description: "Description"
   tests: 
